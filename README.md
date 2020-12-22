@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+About me: [https://jjuricic1.github.io/](https://jjuricic1.github.io/).
 <!--
 **jjuricic1/jjuricic1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
